@@ -1,0 +1,83 @@
+codcademy
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}------bounce in
+-webkit-animation: pulse 2s infinite;
+    /* animation: pulse 2s infinite;
+	https://bootsnipp.com/snippets/O5K0d
+https://www.canva.com/color-palette/-----------color pallete
+https://stackoverflow.com/questions/34959217/animating-an-image-to-make-it-rotate-in-a-circle-----------rotate traslate
+https://robots.thoughtbot.com/transitions-and-transforms --------------------scss transform
+https://bootsnipp.com/snippets/2eDyr------------ social icons
+https://www.freepik.com/free-photos-vectors/transparent
+https://bootsnipp.com/snippets/0lq9G -----clothng hover effect
+VIDEO LINK
+https://www.youtube.com/embed/uNCr7NdOJgw?autoplay=0&modestbranding=1&controls=0&showinfo=0&rel=0&enablejsapi=1&version=3&playerapiid=mbYTP_video_1507805733704&origin=https%3A%2F%2Fmobirise.com&allowfullscreen=true&wmode=transparent&iv_load_policy=3&html5=1&widgetid=1
+hexagon
+https://codepen.io/web-tiki/pen/HhCyd
+https://css-tricks.com/examples/ShapesOfCSS/
+http://csshexagon.com/
+ //hexagon
+https://www.w3schools.com/howto/
+https://codepen.io/torbencolding/pen/OPwwOg----------------navigation
+https://bootsnipp.com/snippets/k2PxQ
+http://www.dynamicdrive.com/style/csslibrary/item/background_slide_in_menu/			.....nav bar reference 
+http://getbootstrap.com/components/#navbar
+http://getbootstrap.com/components/#navbar
+https://bootsnipp.com/snippets/VRb9R
+http://css-snippets.com/simple-horizontal-navigation/
+https://www.webcodegeeks.com/html5/html5-navigation-bar-example/
+http://ianlunn.github.io/Hover/			css over
+https://www.flaticon.com/free-icon/piggy-bank_522582#term=piggy&page=1&position=20-----------------flat icons
+https://codepen.io/dodozhang21/pen/siKtp-----------dancng arrow
+https://www.flaticon.com/search?word=experience
+http://gijgo.com/datepicker---------date picker
+https://www.bootply.com/74926----------------------side tabs
+http://kthornbloom.com/smoothproducts/``````````````````gallery
+https://tympanus.net/Tutorials/AnimatedButtons/index7.html --------			animated button
+http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm-----------scrol menu
+
+https://www.youtube.com/watch?v=Phj-D8qrkA0 ------- for css tutotrial
+
+https://w3layouts.com/preview/?l=/wedding-proposer-wedding-category-bootstrap-responsive-web-template-2/  ............for
+
+https://stackoverflow.com/questions/19592968/bootstrap-3-breakpoints-and-media-queries .............css reference
+
+https://tympanus.net/Tutorials/CSS3RotatingWords/index4.html		css
+
+https://codepen.io/joshnh/pen/paxbE		css
+https://tutorialzine.com/2010/10/css3-animated-bubble-buttons		css bubble buttons 
+http://cssdeck.com/labs/amazing-css3-login-form		css
+
+https://envato.com/blog/pure-css-animation-snippets/   css-ref
+https://codepen.io/lbebber/pen/fmDyr			 FORM
+
+https://stackoverflow.com/questions/19592968/bootstrap-3-breakpoints-and-media-queries   MEDIA Q
+
+https://www.youtube.com/watch?v=DGPNV8S5_CY		you tube for css
+https://daneden.github.io/animate.css/
+
+https://www.webdesignerdepot.com/2015/02/3-cool-css3-image-hover-effects/
+ reference
+
+<form class="flexform" action="enquiry_mail.php" method="post" enctype="multipart/form-data" name="myForm">
+    <input type="text" class="form-control" name="name" placeholder="NAME" required="" onkeypress="return keycheckval(event);" >
+         <input type="text" class="form-control" name="location" placeholder="LOCATION" required="" onkeypress="return keycheckval(event);">
+           <input type="text" class="form-control" name="phone" placeholder="PHONE" required="" onkeypress="return isNumber(event);" maxlength="10" id="mobile" onchange="return checkmobile();">
+           <input type="email" class="form-control valmail-js" name="email" placeholder="EMAIL" required="" onchange="return validateForm();">
+            <textarea class="form-control" rows="5" name="brief" placeholder="SOMETHING ABOUT YOURSELF:" required=""></textarea>
+            <button type="submit" class="bred text-fff modal-btn">SUBMIT</button>
+            </form>
+	_____________________________________________
+	
+	http://www.horizonhospitality.com/hospitality-executive-recruiters/hospitality-recruiting/   site ref for trikaal
