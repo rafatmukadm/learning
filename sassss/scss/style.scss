@@ -1,0 +1,32 @@
+$primary-bg:#ddd;
+$section-top:60px;
+$bodycolor:red;
+body {
+	background-color: $primary-bg;
+	color: $bodycolor;
+}
+$heding1:60px;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	
+}
+
+.primary-bg {
+	background-color: $primary-bg;
+}
+
+section {
+	padding-top: $section-top;
+}
+
+.carousel slide {
+	padding-top: 50px;
+}
+
+.carousel-inner .carousel-item img {
+	max-height: 550px;
+}

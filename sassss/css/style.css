@@ -1,0 +1,17 @@
+body {
+  background-color: #ddd;
+  color: red; }
+
+.primary-bg {
+  background-color: #ddd; }
+
+section {
+  padding-top: 60px; }
+
+.carousel slide {
+  padding-top: 50px; }
+
+.carousel-inner .carousel-item img {
+  max-height: 550px; }
+
+/*# sourceMappingURL=style.css.map */
