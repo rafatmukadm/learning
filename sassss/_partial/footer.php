@@ -1,10 +1,10 @@
 <div class="clearfix"></div>
-<div class="footerParent">
+<div class="footerParent bg-dark">
 	<div class=" footer-image p-tb-xxl bg-000 ">
 		<div class="footer-image-ov"></div>
 		<div class="container mob-a mob-p">
 			<div class="col-md-3 col-sm-6 col-xs-12 mob-p footer-right-border wow fadeIn" data-wow-duration="2s" data-wow-delay="0.3s">
-				<h2 class="text-fff"> Aradhya</h2>
+				<h2 class="text-fff"> ABCDDD</h2>
 				<span>   <img src="img/aradhya_Logo.png" class="mob-a"></span>
 
 				<p class="footer-image-p p-t-md"><a href="about.php" class="text-fff a-none">gggggg  gggggg gggggg gggggg gggggg gggggg gggggg  gggggg gggggg gggggg gggggg gggggg</a>

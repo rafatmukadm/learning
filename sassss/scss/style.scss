@@ -1,17 +1,9 @@
-$primary-bg:#ddd;
-$section-top:60px;
-$bodycolor:red;
+@import '_variables';
 body {
 	background-color: $primary-bg;
 	color: $bodycolor;
 }
-$heding1:60px;
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,h2,h3,h4,h5,h6 {
 	
 }
 
@@ -30,3 +22,4 @@ section {
 .carousel-inner .carousel-item img {
 	max-height: 550px;
 }
+//footer

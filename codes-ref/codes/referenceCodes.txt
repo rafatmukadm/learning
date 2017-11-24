@@ -1,3 +1,6 @@
+http://www.webdesign-inspiration.com/ -------------design tempelate
+snazy maps----color maps
+https://www.webdesignerdepot.com/-------------design tempelate
 codcademy
 @keyframes bounceIn {
   0% {
@@ -15,7 +18,13 @@ codcademy
 -webkit-animation: pulse 2s infinite;
     /* animation: pulse 2s infinite;
 	https://bootsnipp.com/snippets/O5K0d
-https://www.canva.com/color-palette/-----------color pallete
+	https://bootsnipp.com/snippets/deZok--------------------image hover
+	https://uigradients.com/----------------ui gradiant
+	https://bootsnipp.com/snippets/g0gGz--------------- PAGINATION
+	https://bootsnipp.com/snippets/featured/hover-effect-with-amazing-effect	-----------hexagon
+	https://bootsnipp.com/snippets/AVOMP-----------type letter
+https://stackoverflow.com/questions/30049084/how-can-i-create-a-round-arrow-with-only-html-and-css-----------circle arrpow	
+https://www.canva.com/color-palette/-----------color pallete for color reference
 https://stackoverflow.com/questions/34959217/animating-an-image-to-make-it-rotate-in-a-circle-----------rotate traslate
 https://robots.thoughtbot.com/transitions-and-transforms --------------------scss transform
 https://bootsnipp.com/snippets/2eDyr------------ social icons
@@ -45,7 +54,7 @@ http://gijgo.com/datepicker---------date picker
 https://www.bootply.com/74926----------------------side tabs
 http://kthornbloom.com/smoothproducts/``````````````````gallery
 https://tympanus.net/Tutorials/AnimatedButtons/index7.html --------			animated button
-http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm-----------scrol menu
+http://www.dynamicdrive.com/dynamicindex1/ddscrollspymenu.htm-----------scrol and dynamicaly add menu
 
 https://www.youtube.com/watch?v=Phj-D8qrkA0 ------- for css tutotrial
 
