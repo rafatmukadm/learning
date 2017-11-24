@@ -18,6 +18,7 @@ codcademy
 -webkit-animation: pulse 2s infinite;
     /* animation: pulse 2s infinite;
 	https://bootsnipp.com/snippets/O5K0d
+	http://jsfiddle.net/9pWhN/1/-------------onclick image change
 	https://bootsnipp.com/snippets/deZok--------------------image hover
 	https://uigradients.com/----------------ui gradiant
 	https://bootsnipp.com/snippets/g0gGz--------------- PAGINATION
