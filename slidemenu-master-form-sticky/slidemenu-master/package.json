@@ -1,0 +1,35 @@
+{
+  "name": "slidemenu",
+  "version": "0.1.2",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-jshint": "^2.0.4",
+    "gulp-less": "^3.3.0",
+    "gulp-lesshint": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.0.1",
+    "jshint": "^2.9.4"
+  },
+  "description": "A jQuery plugin for a slide menu with fun interactions",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "test": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fissionman924/slidemenu.git"
+  },
+  "author": "Nathaniel Lord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fissionman924/slidemenu/issues"
+  },
+  "homepage": "https://github.com/fissionman924/slidemenu"
+}

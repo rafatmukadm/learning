@@ -1,0 +1,144 @@
+@gray: #f3f4f1;
+@grayD1: shade(@gray, 10%);
+@grayD2: shade(@gray, 20%);
+@grayD3: shade(@gray, 30%);
+@grayC: #cccccc;
+@lightBlueL2: tint(#327dce, 20%);
+@white: #ffffff;
+
+/*
+Slide Menu
+ CSS Structure as follows:
+ 	.slide-menu
+		.menu-items
+			.menu-item
+		.menu-panels
+			.menu-panel
+
+*/
+
+
+/*Slide Menu styles*/
+
+.slide-menu {
+    height: 100%;
+    left: 100%;
+    position: fixed;
+    width: 300;
+    z-index: 10;
+
+    &.left-side {
+        left: 0%;
+        right: auto;
+
+        .menu-items {
+
+            .menu-item {
+                left: auto;
+                right: 0px;
+
+                .menu-icon {
+                    float: right;
+                }
+
+                .menu-close {
+                    left: 0px;
+                    right: auto;
+                    top: 0px;
+                }
+
+                .menu-content {
+                    margin-left: 55px;
+                }
+
+            }
+
+        }
+
+    }
+
+    &.open {
+
+        .menu-items {
+            padding-top: 45px;
+        }
+
+    }
+
+    .menu-items {
+        background-color: @grayD2;
+        height: 100%;
+        left: 0px;
+        margin: 0px;
+        padding: 0px;
+        position: absolute;
+        width: 100%;
+        z-index: 1;
+
+        .menu-item {
+            background-color: @grayD1;
+            border-bottom: 1px solid @grayD3;
+            border-top: 1px solid @grayD3;
+            cursor: pointer;
+            display: block;
+            font-size: 26px;
+            left: 0px;
+            position: absolute;
+            width: 100%;
+
+            .menu-close {
+                background-color: rgba(255, 255, 255, 0.25);
+                display: none;
+                height: 100%;
+                position: absolute;
+                right: 0px;
+                text-align: center;
+                top: 0px;
+
+                i {
+                    padding-top: 8px;
+                }
+
+            }
+
+            .menu-content {
+                display: none;
+                padding: 7px 0px;
+            }
+
+            .menu-icon {
+                display: inline-block;
+                padding: 7px 13px;
+                text-align: center;
+            }
+
+            &.active {
+                background-color: @lightBlueL2;
+                color: @white;
+                position: absolute;
+                text-decoration: none;
+                top: 0px;
+
+                .menu-content,
+                .menu-close {
+                    display: inline-block;
+                }
+
+            }
+
+            .menu-body {
+                background-color: white;
+                color: rgba(0, 0, 0, 0.875);
+                font-size: 14px;
+                height: 0px;
+                overflow: auto;
+                position: absolute;
+                top: 100%;
+                width: 250;
+            }
+
+        }
+
+    }
+
+}

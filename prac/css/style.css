@@ -468,7 +468,8 @@ nav .flator .navbar-toggle .icon-bar+.icon-bar {
 .box-image1 {
 	background-image: url(../img/ff.jpeg);
 	background-size: cover;
-	background-position: center center;
+	background-position: center;
+	transition: 0.5s ease all;
 }
 
 

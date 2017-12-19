@@ -17,9 +17,12 @@ codcademy
 }------bounce in
 -webkit-animation: pulse 2s infinite;
     /* animation: pulse 2s infinite;
-	https://bootsnipp.com/snippets/O5K0d
+	https://designmodo.com/create-full-screen-slider/ -------------------------- carousal for all browser
+	https://bootsnipp.com/snippets/X0lqv-----gallery wih pagination
+	https://bootsnipp.com/snippets/O5K0d ------------hover on social icons
+	https://codepen.io/mattsince87/pen/exByn onclick TAB scroll to content
 	http://jsfiddle.net/9pWhN/1/-------------onclick image change
-	https://bootsnipp.com/snippets/deZok--------------------image hover
+	https://bootsnipp.com/snippets/deZok--------------------image hover effect
 	https://uigradients.com/----------------ui gradiant
 	https://bootsnipp.com/snippets/g0gGz--------------- PAGINATION
 	https://bootsnipp.com/snippets/featured/hover-effect-with-amazing-effect	-----------hexagon
